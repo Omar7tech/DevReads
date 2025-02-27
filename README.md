@@ -1,3 +1,10 @@
+
+
+
+DevReads is a developer-focused library designed to provide access to books on various programming languages and frameworks. This project serves as a training exercise to handle PDF files and track downloads. It is currently in a testing phase without authentication, built using Livewire and Flowbite for seamless functionality and user interface design.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
